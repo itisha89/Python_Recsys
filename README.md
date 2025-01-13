@@ -4,6 +4,9 @@
 
 The problem addressed in this research involves improving recommendation systems by mitigating the cold start and scalability issues, particularly in dynamic environments with large datasets. Traditional collaborative filtering models, such as Singular Value Decomposition (SVD) and Probabilistic Matrix Factorization (PMF), struggle with data sparsity, especially in the face of new users, items, and limited ratings. This research aims to develop a more efficient and accurate recommendation model by utilizing supplemental information and advanced techniques to handle sparse matrices and improve scalability.
 
+## Technologies Used:
+Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, MovieLens Dataset
+
 ## Dataset Used
 
 The research uses the **MovieLens dataset**, which contains ratings and metadata related to movies, users, and their interactions. The dataset includes:
