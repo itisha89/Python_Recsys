@@ -75,3 +75,8 @@ The above table compares the performance of **Matrix Factorization (MF_SVD)**, *
 ### Summary
 
 The **Proposed Model** provides the best overall performance across all evaluation metrics, particularly excelling in **scalability** and **accuracy**. By integrating clustering techniques and deep learning (CNN), it not only mitigates cold start and scalability issues but also improves the overall recommendation quality, making it a promising solution for dynamic and large-scale recommendation systems.
+
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
